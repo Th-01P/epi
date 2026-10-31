@@ -1,0 +1,9 @@
+# Certificados e segredos
+*.pem
+*.crt
+*.key
+
+# Arquivos de sistema e ambiente local
+.DS_Store
+Thumbs.db
+.env

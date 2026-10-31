@@ -1,0 +1,8 @@
+/* Ajustes mínimos sobre o Bootstrap */
+.app-header { border-bottom: 4px solid #ffc107; }
+.app-header .nav-link { color: #adb5bd; border: 0; border-bottom: 3px solid transparent; border-radius: 0; white-space: nowrap; }
+.app-header .nav-link:hover { color: #fff; }
+.app-header .nav-link.active { color: #fff; background: transparent; border-bottom-color: #ffc107; }
+.stat-card { border-left: 5px solid #ffc107; }
+.stat-card.alert-stat { border-left-color: var(--bs-danger); }
+.stat-card .num { font-size: 2.2rem; font-weight: 700; line-height: 1; }
